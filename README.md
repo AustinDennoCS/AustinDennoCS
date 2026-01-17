@@ -1,4 +1,4 @@
-<h1>Hello, I'm Austin! <br/><a href="https://github.com/AustinDennoCS">Programmer</a>, <a href="https://github.com/AustinDennoCS">Cybersecurity Professional</a>
+<h1>Hello, I'm Austin! <br/><a href="https://github.com/AustinDennoCS">Information Technology Student</a>
 
 <h2>Software Development Projects</h2>
 
