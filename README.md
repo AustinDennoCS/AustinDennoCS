@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1>Hello, I'm Austin! <br/><a href="https://github.com/AustinDennoCS">Programmer</a>, <a href="https://github.com/AustinDennoCS">Cybersecurity Professional</a>
 
-<!--
-**AustinDennoCS/AustinDennoCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Software Development Projects</h2>
 
-Here are some ideas to get you started:
+- <b>Python</b>
+  - [Project 1](https://github.com/AustinDennoCS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Bash</b>
+  - [Project 2](https://github.com/AustinDennoCS)
+
+- <b>C++</b>
+  - [Project 3](https://github.com/AustinDennoCS)
+
+- <b>Python</b>
+  - [Project 4](https://github.com/AustinDennoCS)
+
+<h2>Certifications</h2>
+
+- AWS Certified Cloud Practitioner January 2026
+- CompTIA Security+ CE September 2025
+- CompTIA Network+ CE Febuary 2026
+- LPI Linux Essentials January 2025
+- CompTIA A+ CE August 2025
