@@ -1,18 +1,18 @@
-<h1>Hello, I'm Austin! <br/><a href="https://github.com/AustinDennoCS">Information Technology Student</a>
+<h1>Hello, I'm Austin! <br/><a href="https://github.com/AustinDennoCS">Information Technology, Computer Science, Cybersecurity</a>
+
+<h2>Programming Languages</h2>
+
+- <b>Python</b>
+- <b>Javascript</b>
+- <b>C++</b>
+- <b>SQL</b>
+- <b>React</b>
+- <b>NodeJS</b>
 
 <h2>Software Development Projects</h2>
 
 - <b>Python</b>
   - [Project 1](https://github.com/AustinDennoCS)
-
-- <b>Bash</b>
-  - [Project 2](https://github.com/AustinDennoCS)
-
-- <b>C++</b>
-  - [Project 3](https://github.com/AustinDennoCS)
-
-- <b>Python</b>
-  - [Project 4](https://github.com/AustinDennoCS)
 
 <h2>Certifications</h2>
 
