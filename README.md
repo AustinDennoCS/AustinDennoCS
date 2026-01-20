@@ -9,10 +9,13 @@
 - <b>React</b>
 - <b>NodeJS</b>
 
-<h2>Software Development Projects</h2>
+<h2>Projects</h2>
 
 - <b>Python</b>
   - [Project 1](https://github.com/AustinDennoCS)
+    
+- <b>AWS EC2, Linux, SSH, Docker, Security Groups</b>
+  - [Project 2](https://github.com/AustinDennoCS)
 
 <h2>Certifications</h2>
 
