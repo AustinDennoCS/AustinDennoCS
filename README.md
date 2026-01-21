@@ -14,9 +14,6 @@
 - <b>Python</b>
   - [Project 1](https://github.com/AustinDennoCS)
     
-- <b>AWS EC2, Linux, SSH, Docker, Security Groups</b>
-  - [Project 2](https://github.com/AustinDennoCS)
-
 <h2>Certifications</h2>
 
 - AWS Certified Cloud Practitioner January 2026
