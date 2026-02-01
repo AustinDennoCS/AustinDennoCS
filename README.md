@@ -1,4 +1,4 @@
-<h1>Hello, I'm Austin! <br/><a href="https://github.com/AustinDennoCS">Information Technology, Computer Science, Cybersecurity</a>
+<h1>Hello, I'm Austin! <br/><a href="https://github.com/AustinDennoCS">Information Technology, Cybersecurity</a>
 
 <h2>Programming Languages</h2>
 
