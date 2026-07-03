@@ -3,11 +3,10 @@
 <h2>Programming Languages</h2>
 
 - <b>Python</b>
-- <b>Javascript</b>
-- <b>C++</b>
-- <b>SQL</b>
-- <b>React</b>
-- <b>NodeJS</b>
+- <b>Bash</b>
+- <b>Powershell</b>
+
+
 
 <h2>Projects</h2>
 
