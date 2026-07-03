@@ -18,5 +18,5 @@
 - AWS Certified Cloud Practitioner January 2026
 - CompTIA Security+ CE September 2025
 - CompTIA Network+ CE Febuary 2026
-- LPI Linux Essentials January 2025
 - CompTIA A+ CE August 2025
+- LPI Linux Essentials January 2025
